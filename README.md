@@ -10,12 +10,6 @@ Features
 🎯 Displays grade: A+, A, B, C, or Fail  
 🔄 Built using Flask, Python, and HTML 
 
-Screenshots
-
-| Input Form Page | Result Page |
-|-----------------|-------------|
-| ![Form Page](screenshots/form.png) | ![Result Page](screenshots/result.png) |
-
 ## 🛠️ Technologies Used
 
 Python  
